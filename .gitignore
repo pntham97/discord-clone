@@ -24,3 +24,7 @@ dist-ssr
 *.sw?
 tsconfig.json
 tsconfig.node.json
+components.json
+pnpm-lock.yaml
+postcss.config.js
+tailwind.config.js
